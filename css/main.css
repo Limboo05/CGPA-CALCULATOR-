@@ -30,7 +30,7 @@ body {
 /* Header Styles */
 .header {
     background: linear-gradient(to right, #0077b6, #005e8d);
-    color: #fff;
+    color: black;
     padding: 20px 0;
     text-align: center;
     border-top-left-radius: 10px;

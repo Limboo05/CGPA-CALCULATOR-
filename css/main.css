@@ -55,7 +55,7 @@ body {
 /* Hero Section Styles */
 .hero {
     background: url('Cal.jpeg') center/cover no-repeat;
-    color: #fff;
+    color: #000000;
     text-align: center;
     padding: 130px 0;
     border-radius:10px;
